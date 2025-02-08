@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.program.steamlink" name="Steamlink" version="0.0.1" provider-name="meekys">
+<addon id="plugin.program.steamlink" name="Steamlink" version="0.0.2" provider-name="tmarangoni">
     <requires>
         <import addon="xbmc.python" version="3.0.0"/>
         <import addon="service.system.docker" optional="true" version="9.80.11.133"/>
@@ -19,10 +19,10 @@
         <language>en nl de fr</language>
         <platform>linux</platform>
         <license>GPL-3.0-or-later</license>
-        <website>https://github.com/meekys/plugin.program.steamlink</website>
-        <source>https://github.com/meekys/plugin.program.steamlink</source>
+        <website>https://github.com/tmarangoni/plugin.program.steamlink</website>
+        <source>https://github.com/tmarangoni/plugin.program.steamlink</source>
         <news>
-v0.0.1
+v0.0.2
 - Initial release for LibreELEC on the Raspberry Pi 4
         </news>
         <disclaimer lang="en_GB">Feel free to use this at your own risk.</disclaimer>
